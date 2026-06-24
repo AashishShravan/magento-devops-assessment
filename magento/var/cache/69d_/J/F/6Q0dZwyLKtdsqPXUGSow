@@ -1,0 +1,3 @@
+1782332554
+SERVICEINTERFACEMETHODSMAP_B522081A64FBE216EBB3559D20D01B76
+a:4:{s:4:"data";s:379:"{"getIsSubscribed":{"type":"boolean","isRequired":false,"description":null,"parameterCount":0},"setIsSubscribed":{"type":"this","isRequired":true,"description":null,"parameterCount":1},"getAssistanceAllowed":{"type":"integer","isRequired":false,"description":null,"parameterCount":0},"setAssistanceAllowed":{"type":"this","isRequired":true,"description":null,"parameterCount":1}}";s:5:"mtime";i:1782325354;s:6:"expire";i:1782332554;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

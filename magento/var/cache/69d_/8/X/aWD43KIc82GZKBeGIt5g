@@ -1,0 +1,400 @@
+1782386898
+BLOCK_30EB6FB9573B6A5A83B6AE7776D114093CDC5D7A1732AF95B8AE05C9371507EA
+a:4:{s:4:"data";s:28848:"        <div class="block widget block-products-list grid">
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://3.108.29.220/fusion-backpack.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-6">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://3.108.29.220/media/catalog/product/cache/2765542505660baab28ecd555e27366e/m/b/mb02-gray-0.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Fusion&#x20;Backpack"/></span>
+</span>
+<style>.product-image-container-6 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-6 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-6 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Fusion Backpack"
+                                       href="http://3.108.29.220/fusion-backpack.html"
+                                       class="product-item-link">
+                                        Fusion Backpack                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_6"
+                 title="67%">
+                <span style="width: 67%;">
+                    <span>67%</span>
+                </span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="http://3.108.29.220/fusion-backpack.html#reviews">3                &nbsp;<span>Reviews                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-6-widget-product-grid"                data-price-amount="59"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$59.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-MB02" action="http://3.108.29.220/checkout/cart/add/uenc/aHR0cDovLzMuMTA4LjI5LjIyMC9nZWFyLmh0bWw~/product/6/" method="post">
+                                                                                                                                                                                    <input type="hidden" name="product" value="6">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzMuMTA4LjI5LjIyMC9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpNdU1UQTRMakk1TGpJeU1DOW5aV0Z5TG1oMGJXd34vcHJvZHVjdC82Lw~~">
+                                                            <input name="form_key" type="hidden" value="xwOHwFJLIvAWNaJC" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                                <script type="text/x-magento-init">
+                                                        {
+                                                            "[data-role=tocart-form], .form.map.checkout": {
+                                                                "catalogAddToCart": {
+                                                                    "product_sku": "24\u002DMB02"
+                                                                }
+                                                            }
+                                                        }
+                                                        </script>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/3.108.29.220\/wishlist\/index\/add\/","data":{"product":6,"uenc":"aHR0cDovLzMuMTA4LjI5LjIyMC9nZWFyLmh0bWw~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/3.108.29.220\/catalog\/product_compare\/add\/","data":{"product":"6","uenc":"aHR0cDovLzMuMTA4LjI5LjIyMC9nZWFyLmh0bWw~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://3.108.29.220/push-it-messenger-bag.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-14">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://3.108.29.220/media/catalog/product/cache/2765542505660baab28ecd555e27366e/w/b/wb04-blue-0.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Push&#x20;It&#x20;Messenger&#x20;Bag"/></span>
+</span>
+<style>.product-image-container-14 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-14 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-14 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Push It Messenger Bag"
+                                       href="http://3.108.29.220/push-it-messenger-bag.html"
+                                       class="product-item-link">
+                                        Push It Messenger Bag                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_14"
+                 title="67%">
+                <span style="width: 67%;">
+                    <span>67%</span>
+                </span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="http://3.108.29.220/push-it-messenger-bag.html#reviews">3                &nbsp;<span>Reviews                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="14" data-price-box="product-id-14">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-14-widget-product-grid"                data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$45.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WB04" action="http://3.108.29.220/checkout/cart/add/uenc/aHR0cDovLzMuMTA4LjI5LjIyMC9nZWFyLmh0bWw~/product/14/" method="post">
+                                                                                                                                                                                    <input type="hidden" name="product" value="14">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzMuMTA4LjI5LjIyMC9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpNdU1UQTRMakk1TGpJeU1DOW5aV0Z5TG1oMGJXd34vcHJvZHVjdC8xNC8~">
+                                                            <input name="form_key" type="hidden" value="xwOHwFJLIvAWNaJC" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                                <script type="text/x-magento-init">
+                                                        {
+                                                            "[data-role=tocart-form], .form.map.checkout": {
+                                                                "catalogAddToCart": {
+                                                                    "product_sku": "24\u002DWB04"
+                                                                }
+                                                            }
+                                                        }
+                                                        </script>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/3.108.29.220\/wishlist\/index\/add\/","data":{"product":14,"uenc":"aHR0cDovLzMuMTA4LjI5LjIyMC9nZWFyLmh0bWw~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/3.108.29.220\/catalog\/product_compare\/add\/","data":{"product":"14","uenc":"aHR0cDovLzMuMTA4LjI5LjIyMC9nZWFyLmh0bWw~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://3.108.29.220/affirm-water-bottle.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-15">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://3.108.29.220/media/catalog/product/cache/2765542505660baab28ecd555e27366e/u/g/ug06-lb-0.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Affirm&#x20;Water&#x20;Bottle&#x20;"/></span>
+</span>
+<style>.product-image-container-15 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-15 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-15 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Affirm Water Bottle "
+                                       href="http://3.108.29.220/affirm-water-bottle.html"
+                                       class="product-item-link">
+                                        Affirm Water Bottle                                     </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_15"
+                 title="60%">
+                <span style="width: 60%;">
+                    <span>60%</span>
+                </span>
+            </div>
+        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="http://3.108.29.220/affirm-water-bottle.html#reviews">1                &nbsp;<span>Review                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="15" data-price-box="product-id-15">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-15-widget-product-grid"                data-price-amount="7"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$7.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-UG06" action="http://3.108.29.220/checkout/cart/add/uenc/aHR0cDovLzMuMTA4LjI5LjIyMC9nZWFyLmh0bWw~/product/15/" method="post">
+                                                                                                                                                                                    <input type="hidden" name="product" value="15">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzMuMTA4LjI5LjIyMC9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92THpNdU1UQTRMakk1TGpJeU1DOW5aV0Z5TG1oMGJXd34vcHJvZHVjdC8xNS8~">
+                                                            <input name="form_key" type="hidden" value="xwOHwFJLIvAWNaJC" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                                <script type="text/x-magento-init">
+                                                        {
+                                                            "[data-role=tocart-form], .form.map.checkout": {
+                                                                "catalogAddToCart": {
+                                                                    "product_sku": "24\u002DUG06"
+                                                                }
+                                                            }
+                                                        }
+                                                        </script>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/3.108.29.220\/wishlist\/index\/add\/","data":{"product":15,"uenc":"aHR0cDovLzMuMTA4LjI5LjIyMC9nZWFyLmh0bWw~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/3.108.29.220\/catalog\/product_compare\/add\/","data":{"product":"15","uenc":"aHR0cDovLzMuMTA4LjI5LjIyMC9nZWFyLmh0bWw~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://3.108.29.220/sprite-yoga-companion-kit.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-46">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://3.108.29.220/media/catalog/product/cache/2765542505660baab28ecd555e27366e/l/u/luma-yoga-kit-2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Sprite&#x20;Yoga&#x20;Companion&#x20;Kit"/></span>
+</span>
+<style>.product-image-container-46 {
+    width: 240px;
+    height: auto;
+    aspect-ratio: 240 / 300;
+}
+.product-image-container-46 span.product-image-wrapper {
+    height: 100%;
+    width: 100%;
+}
+@supports not (aspect-ratio: auto) { 
+    .product-image-container-46 span.product-image-wrapper {
+        padding-bottom: 125%;
+    }
+}</style>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Sprite Yoga Companion Kit"
+                                       href="http://3.108.29.220/sprite-yoga-companion-kit.html"
+                                       class="product-item-link">
+                                        Sprite Yoga Companion Kit                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="46" data-price-box="product-id-46">
+            <p class="price-from">
+            
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">From</span>
+        <span  id="old-price-46-widget-product-grid"                data-price-amount="61"
+        data-price-type="minPrice"
+        class="price-wrapper "
+    ><span class="price">$61.00</span></span>
+        </span>
+                    </p>
+        <p class="price-to">
+            
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">To</span>
+        <span  id="old-price-46-widget-product-grid"                data-price-amount="77"
+        data-price-type="maxPrice"
+        class="price-wrapper "
+    ><span class="price">$77.00</span></span>
+        </span>
+                    </p>
+    </div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WG080" action="http://3.108.29.220/sprite-yoga-companion-kit.html?options=cart" method="post">
+                                                                                                                                                                                    <input type="hidden" name="product" value="46">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovLzMuMTA4LjI5LjIyMC9zcHJpdGUteW9nYS1jb21wYW5pb24ta2l0Lmh0bWw_b3B0aW9ucz1jYXJ0">
+                                                            <input name="form_key" type="hidden" value="xwOHwFJLIvAWNaJC" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                                <script type="text/x-magento-init">
+                                                        {
+                                                            "[data-role=tocart-form], .form.map.checkout": {
+                                                                "catalogAddToCart": {
+                                                                    "product_sku": "24\u002DWG080"
+                                                                }
+                                                            }
+                                                        }
+                                                        </script>
+                                                                                                                                                            </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/3.108.29.220\/wishlist\/index\/add\/","data":{"product":46,"uenc":"aHR0cDovLzMuMTA4LjI5LjIyMC9nZWFyLmh0bWw~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/3.108.29.220\/catalog\/product_compare\/add\/","data":{"product":"46","uenc":"aHR0cDovLzMuMTA4LjI5LjIyMC9nZWFyLmh0bWw~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>
+";s:5:"mtime";i:1782300498;s:6:"expire";i:1782386898;s:4:"tags";a:15:{i:0;s:5:"CAT_P";i:1;s:10:"BLOCK_HTML";i:2;s:7:"CAT_P_6";i:3;s:8:"CAT_P_14";i:4;s:8:"CAT_P_15";i:5;s:8:"CAT_P_46";i:6;s:8:"CAT_P_26";i:7;s:8:"CAT_P_29";i:8;s:8:"CAT_P_32";i:9;s:8:"CAT_P_21";i:10;s:8:"CAT_P_33";i:11;s:8:"CAT_P_34";i:12;s:8:"CAT_P_35";i:13;s:8:"CAT_P_22";i:14;s:4:"MAGE";}}

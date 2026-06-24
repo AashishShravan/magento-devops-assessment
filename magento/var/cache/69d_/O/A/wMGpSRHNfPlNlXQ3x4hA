@@ -1,0 +1,3 @@
+1782332561
+ATTRIBUTE_METADATA_INSTANCES_CACHECUSTOMERSUFFIX1
+a:4:{s:4:"data";s:472:"[{"attribute_code":"suffix","frontend_input":"text","input_filter":"","store_label":"Name Suffix","validation_rules":[],"multiline_count":0,"visible":false,"required":false,"data_model":"","options":[],"frontend_class":"","user_defined":false,"sort_order":70,"frontend_label":"Name Suffix","note":"","system":false,"backend_type":"static","is_used_in_grid":false,"is_visible_in_grid":false,"is_filterable_in_grid":false,"is_searchable_in_grid":false,"default_value":null}]";s:5:"mtime";i:1782325361;s:6:"expire";i:1782332561;s:4:"tags";a:5:{i:0;s:3:"EAV";i:1;s:13:"EAV_ATTRIBUTE";i:2;s:13:"CONFIG_SCOPES";i:3;s:5:"STORE";i:4;s:4:"MAGE";}}

@@ -1,0 +1,3 @@
+1782333092
+WEBAPI_ASYNC_SERVICE_CONFIG
+a:4:{s:4:"data";s:204:"{"services":[],"routes":{"async\/bulk\/V1\/products":{"PUT":"async\/bulk\/V1\/products\/bySku","input-array-size-limit":null},"asyncProducts":{"POST":"async\/V1\/products","input-array-size-limit":null}}}";s:5:"mtime";i:1782325892;s:6:"expire";i:1782333092;s:4:"tags";a:2:{i:0;s:10:"WEBSERVICE";i:1;s:4:"MAGE";}}

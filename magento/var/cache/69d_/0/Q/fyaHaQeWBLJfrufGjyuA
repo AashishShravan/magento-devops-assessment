@@ -1,0 +1,3 @@
+1782327184
+ATTRIBUTE_NAVIGATION_OPTION_CLIMATE_1
+a:4:{s:4:"data";s:381:"[{"label":" ","value":""},{"value":"201","label":"All-Weather"},{"value":"202","label":"Cold"},{"value":"203","label":"Cool"},{"value":"204","label":"Indoor"},{"value":"205","label":"Mild"},{"value":"206","label":"Rainy"},{"value":"207","label":"Spring"},{"value":"208","label":"Warm"},{"value":"209","label":"Windy"},{"value":"210","label":"Wintry"},{"value":"211","label":"Hot"}]";s:5:"mtime";i:1782319984;s:6:"expire";i:1782327184;s:4:"tags";a:3:{i:0;s:3:"EAV";i:1;s:13:"EAV_ATTRIBUTE";i:2;s:4:"MAGE";}}

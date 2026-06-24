@@ -1,0 +1,28 @@
+1782408174
+BLOCK_2600077B07687E9C9C8BCD8BB73777C25D8D281A157E4BE7F6A4A39B124006FC_1819_FINAL_PRICE_LIST_CATEGORY_PAGE_USD_20260624_1_0_
+a:4:{s:4:"data";s:867:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="1819" data-price-box="product-id-1819">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="product-price-1819"                data-price-amount="31.2"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$31.20</span></span>
+        </span>
+</span>
+
+    <span class="old-price sly-old-price no-display">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-1819"                data-price-amount="39"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$39.00</span></span>
+        </span>
+    </span>
+
+</div>";s:5:"mtime";i:1782321774;s:6:"expire";i:1782408174;s:4:"tags";a:4:{i:0;s:10:"BLOCK_HTML";i:1;s:10:"CAT_P_1819";i:2;s:5:"CAT_P";i:3;s:4:"MAGE";}}

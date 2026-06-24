@@ -1,0 +1,34 @@
+1782325373
+BLOCK_8A736B430562B6DF611F6DCF0C5CAF48F19BC5018953B0D2EAC723F1DB9E7853_2003
+a:4:{s:4:"data";s:4038:"                <div class="swatch-opt-2003"
+         data-role="swatch-option-2003"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-2003]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"144":{"id":"144","code":"size","label":"Size","options":[{"id":"171","label":"28","products":["1998"]},{"id":"172","label":"29","products":["1999"]},{"id":"173","label":"30","products":["2000"]},{"id":"174","label":"31","products":["2001"]},{"id":"175","label":"32","products":["2002"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"57","label":"Purple","products":["1998","1999","2000","2001","2002"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"1998":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44},"tierPrices":[],"msrpPrice":{"amount":0}},"1999":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44},"tierPrices":[],"msrpPrice":{"amount":0}},"2000":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44},"tierPrices":[],"msrpPrice":{"amount":0}},"2001":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44},"tierPrices":[],"msrpPrice":{"amount":0}},"2002":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44}},"productId":"2003","chooseText":"Choose an Option...","images":[],"index":{"1998":{"144":"171","93":"57"},"1999":{"144":"172","93":"57"},"2000":{"144":"173","93":"57"},"2001":{"144":"174","93":"57"},"2002":{"144":"175","93":"57"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"channel":"website","salesChannelCode":"base","sku":{"1998":"WSH08-28-Purple","1999":"WSH08-29-Purple","2000":"WSH08-30-Purple","2001":"WSH08-31-Purple","2002":"WSH08-32-Purple"}},
+                    "jsonSwatchConfig": {"144":{"171":{"type":"0","value":"28","label":"28"},"172":{"type":"0","value":"29","label":"29"},"173":{"type":"0","value":"30","label":"30"},"174":{"type":"0","value":"31","label":"31"},"175":{"type":"0","value":"32","label":"32"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"},"93":{"57":{"type":"1","value":"#ef3dff","label":"Purple"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002F3.108.29.220\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-2003]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":44},"oldPrice":{"amount":44},"basePrice":{"amount":44},"finalPrice":{"amount":44}}                    }
+                }
+            }
+        }
+    </script>
+";s:5:"mtime";i:1782321773;s:6:"expire";i:1782325373;s:4:"tags";a:4:{i:0;s:10:"BLOCK_HTML";i:1;s:10:"CAT_P_2003";i:2;s:5:"CAT_P";i:3;s:4:"MAGE";}}

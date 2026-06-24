@@ -1,0 +1,16 @@
+1782411760
+BLOCK_01B931038B0FCF207AF30FA6C18D675FE4CFEB115CD783BBCBD398DE2AD7EC74_OLD_PRICE_1556_WIDGET_PRODUCT_GRID_FINAL_PRICE_USD_20260624_1_1_
+a:4:{s:4:"data";s:468:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="1556" data-price-box="product-id-1556">    <span class="normal-price">
+
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1556-widget-product-grid"                data-price-amount="22"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$22.00</span></span>
+        </span>
+</span>
+
+
+</div>";s:5:"mtime";i:1782325360;s:6:"expire";i:1782411760;s:4:"tags";a:4:{i:0;s:10:"BLOCK_HTML";i:1;s:10:"CAT_P_1556";i:2;s:5:"CAT_P";i:3;s:4:"MAGE";}}

@@ -1,0 +1,3 @@
+1782337782
+CRONTAB__EVENT_CONFIG_CACHE
+a:4:{s:4:"data";s:365:"{"default":{"cron_observer":{"instance":"Magento\\Cron\\Observer\\ProcessCronQueueObserver","name":"cron_observer"}},"catalog_product_get_final_price":{"catalogrule":{"instance":"Magento\\CatalogRule\\Observer\\ProcessAdminFinalPriceObserver","name":"catalogrule"}},"prepare_catalog_product_collection_prices":{"catalogrule":{"disabled":true,"name":"catalogrule"}}}";s:5:"mtime";i:1782330582;s:6:"expire";i:1782337782;s:4:"tags";a:2:{i:0;s:15:"COMPILED_CONFIG";i:1;s:4:"MAGE";}}

@@ -1,0 +1,3 @@
+1782337960
+SERVICEINTERFACEMETHODSMAP_A1F0658F438D508715D148F2CA8280AB
+a:4:{s:4:"data";s:470:"{"save":{"type":"\\Magento\\Catalog\\Api\\Data\\CategoryInterface","isRequired":true,"description":"","parameterCount":1},"get":{"type":"\\Magento\\Catalog\\Api\\Data\\CategoryInterface","isRequired":true,"description":"","parameterCount":1},"delete":{"type":"bool","isRequired":true,"description":"Will returned True if deleted","parameterCount":1},"deleteByIdentifier":{"type":"bool","isRequired":true,"description":"Will returned True if deleted","parameterCount":1}}";s:5:"mtime";i:1782330760;s:6:"expire";i:1782337960;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

@@ -1,0 +1,3 @@
+1782337961
+SERVICEINTERFACEMETHODSMAP_F1F94E8E9B45FDA9E44B111A2752DB9B
+a:4:{s:4:"data";s:214:"{"get":{"type":"\\Magento\\GiftMessage\\Api\\Data\\MessageInterface","isRequired":true,"description":"Gift message.","parameterCount":2},"save":{"type":"bool","isRequired":true,"description":"","parameterCount":3}}";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

@@ -1,0 +1,3 @@
+1782337960
+SERVICEINTERFACEMETHODSMAP_01536BC814A582AF20FCA8AB92AE6601
+a:4:{s:4:"data";s:311:"{"getTree":{"type":"\\Magento\\Catalog\\Api\\Data\\CategoryTreeInterface","isRequired":true,"description":"containing Tree objects","parameterCount":0},"move":{"type":"bool","isRequired":true,"description":"","parameterCount":2},"getCount":{"type":"int","isRequired":true,"description":null,"parameterCount":0}}";s:5:"mtime";i:1782330760;s:6:"expire";i:1782337960;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

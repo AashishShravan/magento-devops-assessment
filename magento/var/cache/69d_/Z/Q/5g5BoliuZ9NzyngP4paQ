@@ -1,0 +1,3 @@
+1782337961
+SERVICEINTERFACEMETHODSMAP_CF11672F131B9E993976987CDCF473F0
+a:4:{s:4:"data";s:343:"{"save":{"type":"void","isRequired":true,"description":"","parameterCount":1},"get":{"type":"\\Magento\\InventoryApi\\Api\\Data\\SourceInterface","isRequired":true,"description":"","parameterCount":1},"getList":{"type":"\\Magento\\InventoryApi\\Api\\Data\\SourceSearchResultsInterface","isRequired":true,"description":null,"parameterCount":0}}";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

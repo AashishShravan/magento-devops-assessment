@@ -1,0 +1,63 @@
+
+In Abstract.php line 148:
+                                                                               
+  SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for mysql fail  
+  ed: Temporary failure in name resolution                                     
+                                                                               
+
+In Abstract.php line 128:
+                                                                               
+  SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for mysql fail  
+  ed: Temporary failure in name resolution                                     
+                                                                               
+
+In Abstract.php line 128:
+                                                                               
+  PDO::__construct(): php_network_getaddresses: getaddrinfo for mysql failed:  
+   Temporary failure in name resolution                                        
+                                                                               
+
+cron:run [--group GROUP] [--exclude-group [EXCLUDE-GROUP]] [--bootstrap BOOTSTRAP]
+
+
+In Abstract.php line 148:
+                                                                               
+  SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for mysql fail  
+  ed: Temporary failure in name resolution                                     
+                                                                               
+
+In Abstract.php line 128:
+                                                                               
+  SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for mysql fail  
+  ed: Temporary failure in name resolution                                     
+                                                                               
+
+In Abstract.php line 128:
+                                                                               
+  PDO::__construct(): php_network_getaddresses: getaddrinfo for mysql failed:  
+   Temporary failure in name resolution                                        
+                                                                               
+
+cron:run [--group GROUP] [--exclude-group [EXCLUDE-GROUP]] [--bootstrap BOOTSTRAP]
+
+
+In Mysql.php line 109:
+                                                                               
+  SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progre  
+  ss, query was: SELECT GET_LOCK(?, ?);                                        
+                                                                               
+
+In Mysql.php line 90:
+                                                                               
+  SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progre  
+  ss                                                                           
+                                                                               
+
+cron:run [--group GROUP] [--exclude-group [EXCLUDE-GROUP]] [--bootstrap BOOTSTRAP]
+
+
+Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /var/www/html/vendor/magento/framework/DB/Adapter/Pdo/Mysql.php on line 4041
+
+Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /var/www/html/vendor/magento/module-downloadable/Api/Data/LinkInterface.php on line 176
+
+Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 86016 bytes) in /var/www/html/vendor/magento/framework/Serialize/Serializer/Serialize.php on line 26

@@ -1,0 +1,3 @@
+1782337961
+SERVICEINTERFACEMETHODSMAP_EDD23A2CD9F4CB710E95D56442E2119E
+a:4:{s:4:"data";s:551:"{"getList":{"type":"\\Magento\\Sales\\Api\\Data\\OrderAddressSearchResultInterface","isRequired":true,"description":"Order address search result interface.","parameterCount":1},"get":{"type":"\\Magento\\Sales\\Api\\Data\\OrderAddressInterface","isRequired":true,"description":"Order address interface.","parameterCount":1},"delete":{"type":"bool","isRequired":true,"description":null,"parameterCount":1},"save":{"type":"\\Magento\\Sales\\Api\\Data\\OrderAddressInterface","isRequired":true,"description":"Order address interface.","parameterCount":1}}";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

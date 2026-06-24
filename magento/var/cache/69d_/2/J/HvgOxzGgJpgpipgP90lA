@@ -1,0 +1,3 @@
+1782337961
+SERVICEINTERFACEMETHODSMAP_D93181724B0080BF3645E32E48CC15B8
+a:4:{s:4:"data";s:480:"{"save":{"type":"\\Magento\\SalesRule\\Api\\Data\\CouponInterface","isRequired":true,"description":"","parameterCount":1},"getById":{"type":"\\Magento\\SalesRule\\Api\\Data\\CouponInterface","isRequired":true,"description":"","parameterCount":1},"getList":{"type":"\\Magento\\SalesRule\\Api\\Data\\CouponSearchResultInterface","isRequired":true,"description":"","parameterCount":1},"deleteById":{"type":"bool","isRequired":true,"description":"true on success","parameterCount":1}}";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

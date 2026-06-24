@@ -1,0 +1,3 @@
+1782337961
+SERVICE_METHOD_PARAMS_80B60148ACF6C2A10A572606BA88403B
+a:4:{s:4:"data";s:172:"[{"name":"sku","type":"string","isDefaultValueAvailable":false,"defaultValue":null},{"name":"childSku","type":"string","isDefaultValueAvailable":false,"defaultValue":null}]";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

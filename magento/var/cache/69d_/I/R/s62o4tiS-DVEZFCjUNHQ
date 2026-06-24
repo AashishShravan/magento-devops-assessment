@@ -1,0 +1,3 @@
+1782337961
+SERVICEINTERFACEMETHODSMAP_9037B401547B2633F36EB8E21F96F919
+a:4:{s:4:"data";s:439:"{"setCapture":{"type":"string","isRequired":true,"description":null,"parameterCount":1},"getCommentsList":{"type":"\\Magento\\Sales\\Api\\Data\\InvoiceCommentSearchResultInterface","isRequired":true,"description":"Invoice comment search result interface.","parameterCount":1},"notify":{"type":"bool","isRequired":true,"description":null,"parameterCount":1},"setVoid":{"type":"bool","isRequired":true,"description":null,"parameterCount":1}}";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

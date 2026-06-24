@@ -1,0 +1,6 @@
+1783164320
+BLOCK_4525CC52FAE1AA64E84F9420678370DACAACE94A09C9785AA83E1E8680BED42E
+a:4:{s:4:"data";s:196:"a:2:{s:8:"policies";a:1:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:0:{}}}s:4:"html";s:76:"<p class="magento-version">
+    <strong>Magento</strong>
+    ver. 2.4.9</p>
+";}";s:5:"mtime";i:1782300320;s:6:"expire";i:1783164320;s:4:"tags";a:2:{i:0;s:10:"BLOCK_HTML";i:1;s:4:"MAGE";}}

@@ -1,0 +1,3 @@
+1782337960
+SERVICEINTERFACEMETHODSMAP_5592C282BE73D3A4173BBCAA4B9E1AA9
+a:4:{s:4:"data";s:212:"{"createCustomerAccessToken":{"type":"string","isRequired":true,"description":"Token created","parameterCount":2},"revokeCustomerAccessToken":{"type":"bool","isRequired":true,"description":"","parameterCount":1}}";s:5:"mtime";i:1782330760;s:6:"expire";i:1782337960;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

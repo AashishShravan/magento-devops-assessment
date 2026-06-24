@@ -1,0 +1,3 @@
+1782328304
+SERVICEINTERFACEMETHODSMAP_A6000736E441951E87FA4C9CC4A57468
+a:4:{s:4:"data";s:422:"{"getReviewHtml":{"type":"string","isRequired":false,"description":null,"parameterCount":0},"setReviewHtml":{"type":"this","isRequired":true,"description":null,"parameterCount":1},"getWishlistButton":{"type":"\\Magento\\Catalog\\Api\\Data\\ProductRender\\ButtonInterface","isRequired":false,"description":null,"parameterCount":0},"setWishlistButton":{"type":"this","isRequired":true,"description":null,"parameterCount":1}}";s:5:"mtime";i:1782321104;s:6:"expire";i:1782328304;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

@@ -1,0 +1,3 @@
+1782337956
+SERVICE_METHOD_PARAMS_86E289292F4F757CD9E7E21F41EC86DD
+a:4:{s:4:"data";s:159:"[{"name":"skus","type":"\\Magento\\InventorySales\\Plugin\\Catalog\\Model\\SkuDataForReservationUpdate[]","isDefaultValueAvailable":false,"defaultValue":null}]";s:5:"mtime";i:1782330756;s:6:"expire";i:1782337956;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

@@ -1,0 +1,3 @@
+1782337960
+SERVICEINTERFACEMETHODSMAP_5A02021243473604835EB4FE2A90EC3B
+a:4:{s:4:"data";s:553:"{"create":{"type":"int","isRequired":true,"description":"gallery entry ID","parameterCount":2},"update":{"type":"bool","isRequired":true,"description":"","parameterCount":2},"remove":{"type":"bool","isRequired":true,"description":"","parameterCount":2},"get":{"type":"\\Magento\\Catalog\\Api\\Data\\ProductAttributeMediaGalleryEntryInterface","isRequired":true,"description":null,"parameterCount":2},"getList":{"type":"\\Magento\\Catalog\\Api\\Data\\ProductAttributeMediaGalleryEntryInterface[]","isRequired":true,"description":null,"parameterCount":1}}";s:5:"mtime";i:1782330760;s:6:"expire";i:1782337960;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

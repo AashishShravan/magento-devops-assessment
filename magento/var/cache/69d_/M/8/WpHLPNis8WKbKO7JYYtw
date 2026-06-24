@@ -1,0 +1,3 @@
+1782337960
+SERVICEINTERFACEMETHODSMAP_3B391C5862CBDFDC1165D6E98D914A56
+a:4:{s:4:"data";s:360:"{"get":{"type":"\\Magento\\Catalog\\Api\\Data\\CostInterface[]","isRequired":true,"description":"","parameterCount":1},"update":{"type":"\\Magento\\Catalog\\Api\\Data\\PriceUpdateResultInterface[]","isRequired":true,"description":"","parameterCount":1},"delete":{"type":"bool","isRequired":true,"description":"Will return True if deleted.","parameterCount":1}}";s:5:"mtime";i:1782330760;s:6:"expire";i:1782337960;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

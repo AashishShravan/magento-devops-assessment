@@ -1,0 +1,3 @@
+1782337960
+SERVICEINTERFACEMETHODSMAP_C1A350F6FF34FBCC00415E755390E50E
+a:4:{s:4:"data";s:434:"{"getList":{"type":"\\Magento\\Downloadable\\Api\\Data\\SampleInterface[]","isRequired":true,"description":null,"parameterCount":1},"getSamplesByProduct":{"type":"\\Magento\\Downloadable\\Api\\Data\\SampleInterface[]","isRequired":true,"description":null,"parameterCount":1},"save":{"type":"int","isRequired":true,"description":null,"parameterCount":2},"delete":{"type":"bool","isRequired":true,"description":null,"parameterCount":1}}";s:5:"mtime";i:1782330760;s:6:"expire";i:1782337960;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

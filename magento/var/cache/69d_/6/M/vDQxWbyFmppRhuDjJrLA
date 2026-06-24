@@ -1,0 +1,3 @@
+1782337961
+SERVICE_METHOD_PARAMS_7CFDED922579B87B3FE9A9BD4C426D5D
+a:4:{s:4:"data";s:142:"[{"name":"links","type":"\\Magento\\InventoryApi\\Api\\Data\\StockSourceLinkInterface[]","isDefaultValueAvailable":false,"defaultValue":null}]";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

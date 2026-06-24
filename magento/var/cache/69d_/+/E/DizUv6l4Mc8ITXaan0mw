@@ -1,0 +1,3 @@
+1782337961
+SERVICEINTERFACEMETHODSMAP_DA6563FD4AEFE09A341C3D33CEA4B373
+a:4:{s:4:"data";s:568:"{"get":{"type":"\\Magento\\Tax\\Api\\Data\\TaxRuleInterface","isRequired":true,"description":null,"parameterCount":1},"save":{"type":"\\Magento\\Tax\\Api\\Data\\TaxRuleInterface","isRequired":true,"description":"$rule","parameterCount":1},"delete":{"type":"bool","isRequired":true,"description":"","parameterCount":1},"deleteById":{"type":"bool","isRequired":true,"description":"","parameterCount":1},"getList":{"type":"\\Magento\\Tax\\Api\\Data\\TaxRuleSearchResultsInterface","isRequired":true,"description":"containing TaxRuleInterface objects","parameterCount":1}}";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

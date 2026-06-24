@@ -1,4 +1,4 @@
-FROM php:8.2-fpm
+FROM php:8.3-fpm
 
 ARG UID=1001
 ARG GID=1001
@@ -18,7 +18,8 @@ RUN apt-get update && apt-get install -y \
     libpng-dev \
     libjpeg62-turbo-dev \
     libfreetype6-dev \
-    libonig-dev && \
+    libonig-dev \
+    libxslt1-dev && \
     rm -rf /var/lib/apt/lists/*
 
 RUN docker-php-ext-configure gd \
@@ -32,6 +33,8 @@ RUN docker-php-ext-install \
     bcmath \
     sockets \
     zip \
+    ftp \
+    xsl \
     gd
 
 COPY --from=composer:2 /usr/bin/composer /usr/bin/composer

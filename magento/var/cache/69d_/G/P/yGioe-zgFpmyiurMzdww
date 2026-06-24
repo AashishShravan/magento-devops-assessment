@@ -1,0 +1,3 @@
+1782337960
+SERVICEINTERFACEMETHODSMAP_1D04A5D5D73CEF790B97F94CE499765C
+a:4:{s:4:"data";s:575:"{"save":{"type":"\\Magento\\Customer\\Api\\Data\\AddressInterface","isRequired":true,"description":"","parameterCount":1},"getById":{"type":"\\Magento\\Customer\\Api\\Data\\AddressInterface","isRequired":true,"description":"","parameterCount":1},"getList":{"type":"\\Magento\\Customer\\Api\\Data\\AddressSearchResultsInterface","isRequired":true,"description":"","parameterCount":1},"delete":{"type":"bool","isRequired":true,"description":"true on success","parameterCount":1},"deleteById":{"type":"bool","isRequired":true,"description":"true on success","parameterCount":1}}";s:5:"mtime";i:1782330760;s:6:"expire";i:1782337960;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

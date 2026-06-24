@@ -1,0 +1,3 @@
+1782337961
+SERVICEINTERFACEMETHODSMAP_8241C71CC0E865C676697AFB637BAD86
+a:4:{s:4:"data";s:567:"{"save":{"type":"\\Magento\\Tax\\Api\\Data\\TaxRateInterface","isRequired":true,"description":"","parameterCount":1},"get":{"type":"\\Magento\\Tax\\Api\\Data\\TaxRateInterface","isRequired":true,"description":"","parameterCount":1},"deleteById":{"type":"bool","isRequired":true,"description":"","parameterCount":1},"getList":{"type":"\\Magento\\Tax\\Api\\Data\\TaxRateSearchResultsInterface","isRequired":true,"description":"containing Data\\TaxRateInterface objects","parameterCount":1},"delete":{"type":"bool","isRequired":true,"description":"","parameterCount":1}}";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

@@ -1,0 +1,3 @@
+1782337961
+SERVICEINTERFACEMETHODSMAP_403DE6D2C0375E21991B3F8840AFE1C6
+a:4:{s:4:"data";s:567:"{"getList":{"type":"\\Magento\\Sales\\Api\\Data\\ShipmentCommentSearchResultInterface","isRequired":true,"description":"Shipment comment search result interface.","parameterCount":1},"get":{"type":"\\Magento\\Sales\\Api\\Data\\ShipmentCommentInterface","isRequired":true,"description":"Shipment comment interface.","parameterCount":1},"delete":{"type":"bool","isRequired":true,"description":"","parameterCount":1},"save":{"type":"\\Magento\\Sales\\Api\\Data\\ShipmentCommentInterface","isRequired":true,"description":"Shipment comment interface.","parameterCount":1}}";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

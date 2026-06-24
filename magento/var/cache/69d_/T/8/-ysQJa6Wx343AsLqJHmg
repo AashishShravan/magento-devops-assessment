@@ -1,0 +1,3 @@
+1782337961
+SERVICEINTERFACEMETHODSMAP_59975BCD8137DBB5CEEF416E91CDAB23
+a:4:{s:4:"data";s:482:"{"cancel":{"type":"bool","isRequired":true,"description":"","parameterCount":1},"getCommentsList":{"type":"\\Magento\\Sales\\Api\\Data\\CreditmemoCommentSearchResultInterface","isRequired":true,"description":"Credit memo comment search results interface.","parameterCount":1},"notify":{"type":"bool","isRequired":true,"description":null,"parameterCount":1},"refund":{"type":"\\Magento\\Sales\\Api\\Data\\CreditmemoInterface","isRequired":true,"description":null,"parameterCount":1}}";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

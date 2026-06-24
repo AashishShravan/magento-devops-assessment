@@ -1,0 +1,3 @@
+1782337960
+SERVICEINTERFACEMETHODSMAP_925A2D5F6B8A947ADB3EDF59D07F287D
+a:4:{s:4:"data";s:294:"{"getItems":{"type":"\\Magento\\Eav\\Api\\Data\\AttributeOptionInterface[]","isRequired":true,"description":null,"parameterCount":1},"add":{"type":"string","isRequired":true,"description":null,"parameterCount":2},"delete":{"type":"bool","isRequired":true,"description":null,"parameterCount":2}}";s:5:"mtime";i:1782330760;s:6:"expire";i:1782337960;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

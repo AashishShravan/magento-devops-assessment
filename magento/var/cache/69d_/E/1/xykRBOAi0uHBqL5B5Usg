@@ -1,0 +1,3 @@
+1782337960
+SERVICEINTERFACEMETHODSMAP_0E1DBB79A407F4B2BEFEE234DE8AD4D2
+a:4:{s:4:"data";s:304:"{"assign":{"type":"int","isRequired":true,"description":"","parameterCount":4},"unassign":{"type":"bool","isRequired":true,"description":null,"parameterCount":2},"getAttributes":{"type":"\\Magento\\Catalog\\Api\\Data\\ProductAttributeInterface[]","isRequired":true,"description":null,"parameterCount":1}}";s:5:"mtime";i:1782330760;s:6:"expire";i:1782337960;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

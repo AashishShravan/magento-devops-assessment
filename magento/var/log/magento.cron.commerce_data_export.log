@@ -1,0 +1,17 @@
+
+In Mysql.php line 109:
+                                                                               
+  SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progre  
+  ss, query was: SELECT GET_LOCK(?, ?);                                        
+                                                                               
+
+In Mysql.php line 90:
+                                                                               
+  SQLSTATE[08S01]: Communication link failure: 1053 Server shutdown in progre  
+  ss                                                                           
+                                                                               
+
+cron:run [--group GROUP] [--exclude-group [EXCLUDE-GROUP]] [--bootstrap BOOTSTRAP]
+
+
+Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /var/www/html/vendor/magento/module-quote-graph-ql/Model/Resolver/UpdateCartItems.php on line 74

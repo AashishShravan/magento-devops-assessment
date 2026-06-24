@@ -1,0 +1,3 @@
+1782337960
+SERVICE_METHOD_PARAMS_7EB51CC1529418B2235CDC8BE747F4DB
+a:4:{s:4:"data";s:308:"[{"name":"attributeCode","type":"string","isDefaultValueAvailable":false,"defaultValue":null},{"name":"optionId","type":"int","isDefaultValueAvailable":false,"defaultValue":null},{"name":"option","type":"Magento\\Eav\\Api\\Data\\AttributeOptionInterface","isDefaultValueAvailable":false,"defaultValue":null}]";s:5:"mtime";i:1782330760;s:6:"expire";i:1782337960;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

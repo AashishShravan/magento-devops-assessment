@@ -1,0 +1,3 @@
+1782332554
+SERVICEINTERFACEMETHODSMAP_40C18F534FD4E574DAFE9DF0A81001C3
+a:4:{s:4:"data";s:554:"{"getLabel":{"type":"string","isRequired":true,"description":null,"parameterCount":0},"setLabel":{"type":"this","isRequired":true,"description":null,"parameterCount":1},"getValue":{"type":"string","isRequired":false,"description":null,"parameterCount":0},"setValue":{"type":"this","isRequired":true,"description":null,"parameterCount":1},"getOptions":{"type":"\\Magento\\Customer\\Api\\Data\\OptionInterface[]","isRequired":false,"description":null,"parameterCount":0},"setOptions":{"type":"this","isRequired":true,"description":null,"parameterCount":0}}";s:5:"mtime";i:1782325354;s:6:"expire";i:1782332554;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

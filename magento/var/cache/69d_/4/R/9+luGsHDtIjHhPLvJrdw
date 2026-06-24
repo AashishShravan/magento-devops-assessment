@@ -1,0 +1,3 @@
+1782337961
+SERVICE_METHOD_PARAMS_9665E5DB394F73499D9BAADEFD4D562A
+a:4:{s:4:"data";s:221:"[{"name":"id","type":"int","isDefaultValueAvailable":false,"defaultValue":null},{"name":"statusHistory","type":"Magento\\Sales\\Api\\Data\\OrderStatusHistoryInterface","isDefaultValueAvailable":false,"defaultValue":null}]";s:5:"mtime";i:1782330761;s:6:"expire";i:1782337961;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}

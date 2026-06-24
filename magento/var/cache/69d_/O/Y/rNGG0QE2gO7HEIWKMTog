@@ -1,0 +1,34 @@
+1782304137
+BLOCK_8A736B430562B6DF611F6DCF0C5CAF48F19BC5018953B0D2EAC723F1DB9E7853_1114
+a:4:{s:4:"data";s:4021:"                <div class="swatch-opt-1114"
+         data-role="swatch-option-1114"></div>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=swatch-option-1114]": {
+                "Magento_Swatches/js/swatch-renderer": {
+                    "selectorProduct": ".product-item-details",
+                    "onlySwatches": true,
+                    "enableControlLabel": false,
+                    "numberToShow": 16,
+                    "jsonConfig": {"attributes":{"144":{"id":"144","code":"size","label":"Size","options":[{"id":"166","label":"XS","products":["1109"]},{"id":"167","label":"S","products":["1110"]},{"id":"168","label":"M","products":["1111"]},{"id":"169","label":"L","products":["1112"]},{"id":"170","label":"XL","products":["1113"]}],"position":"0"},"93":{"id":"93","code":"color","label":"Color","options":[{"id":"57","label":"Purple","products":["1109","1110","1111","1112","1113"]}],"position":"1"}},"template":"$<%- data.price %>","currencyFormat":"$%s","optionPrices":{"1109":{"baseOldPrice":{"amount":59},"oldPrice":{"amount":59},"basePrice":{"amount":59},"finalPrice":{"amount":59},"tierPrices":[],"msrpPrice":{"amount":0}},"1110":{"baseOldPrice":{"amount":59},"oldPrice":{"amount":59},"basePrice":{"amount":59},"finalPrice":{"amount":59},"tierPrices":[],"msrpPrice":{"amount":0}},"1111":{"baseOldPrice":{"amount":59},"oldPrice":{"amount":59},"basePrice":{"amount":59},"finalPrice":{"amount":59},"tierPrices":[],"msrpPrice":{"amount":0}},"1112":{"baseOldPrice":{"amount":59},"oldPrice":{"amount":59},"basePrice":{"amount":59},"finalPrice":{"amount":59},"tierPrices":[],"msrpPrice":{"amount":0}},"1113":{"baseOldPrice":{"amount":59},"oldPrice":{"amount":59},"basePrice":{"amount":59},"finalPrice":{"amount":59},"tierPrices":[],"msrpPrice":{"amount":0}}},"priceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"prices":{"baseOldPrice":{"amount":59},"oldPrice":{"amount":59},"basePrice":{"amount":59},"finalPrice":{"amount":59}},"productId":"1114","chooseText":"Choose an Option...","images":[],"index":{"1109":{"144":"166","93":"57"},"1110":{"144":"167","93":"57"},"1111":{"144":"168","93":"57"},"1112":{"144":"169","93":"57"},"1113":{"144":"170","93":"57"}},"salable":[],"canDisplayShowOutOfStockStatus":false,"channel":"website","salesChannelCode":"base","sku":{"1109":"WH06-XS-Purple","1110":"WH06-S-Purple","1111":"WH06-M-Purple","1112":"WH06-L-Purple","1113":"WH06-XL-Purple"}},
+                    "jsonSwatchConfig": {"144":{"166":{"type":"0","value":"XS","label":"XS"},"167":{"type":"0","value":"S","label":"S"},"168":{"type":"0","value":"M","label":"M"},"169":{"type":"0","value":"L","label":"L"},"170":{"type":"0","value":"XL","label":"XL"},"additional_data":"{\"swatch_input_type\":\"text\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"},"93":{"57":{"type":"1","value":"#ef3dff","label":"Purple"},"additional_data":"{\"swatch_input_type\":\"visual\",\"update_product_preview_image\":1,\"use_product_image_for_swatch\":0}"}},
+                    "mediaCallback": "http\u003A\u002F\u002F3.108.29.220\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                    "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                    "showTooltip": 1                }
+            }
+        }
+    </script>
+
+    <script type="text/x-magento-init">
+        {
+            "[data-role=priceBox][data-price-box=product-id-1114]": {
+                "priceBox": {
+                    "priceConfig": {
+                        "priceFormat": {"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},
+                        "prices": {"baseOldPrice":{"amount":59},"oldPrice":{"amount":59},"basePrice":{"amount":59},"finalPrice":{"amount":59}}                    }
+                }
+            }
+        }
+    </script>
+";s:5:"mtime";i:1782300537;s:6:"expire";i:1782304137;s:4:"tags";a:4:{i:0;s:10:"BLOCK_HTML";i:1;s:10:"CAT_P_1114";i:2;s:5:"CAT_P";i:3;s:4:"MAGE";}}

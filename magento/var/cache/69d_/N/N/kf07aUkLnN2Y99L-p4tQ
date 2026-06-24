@@ -1,0 +1,3 @@
+1782337960
+SERVICEINTERFACEMETHODSMAP_1082F98B5D1252230474F713F412F1A5
+a:4:{s:4:"data";s:296:"{"add":{"type":"boolean","isRequired":true,"description":"","parameterCount":4},"remove":{"type":"boolean","isRequired":true,"description":"","parameterCount":3},"getList":{"type":"\\Magento\\Catalog\\Api\\Data\\ProductTierPriceInterface[]","isRequired":true,"description":"","parameterCount":2}}";s:5:"mtime";i:1782330760;s:6:"expire";i:1782337960;s:4:"tags";a:2:{i:0;s:10:"REFLECTION";i:1;s:4:"MAGE";}}
