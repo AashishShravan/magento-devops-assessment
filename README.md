@@ -439,7 +439,77 @@ The deployment includes NGINX, PHP-FPM, MySQL, Redis, OpenSearch, phpMyAdmin, an
 ![phpMyAdmin](docs/screenshots/php-my-admin.png)
 
 ---
+# Known Limitations & Future Improvements
 
-## HTTPS Configuration
+This project was successfully deployed and validated on an AWS Free Tier **t3.micro (1 vCPU, 1 GB RAM)** instance. Due to the limited resources available on the Free Tier, a few production-grade requirements were intentionally simplified. These trade-offs are documented below.
 
-![HTTPS](docs/screenshots/https.png)
+## 1. Varnish Cache
+
+The assessment specifies a dedicated Varnish container between NGINX and PHP-FPM.
+
+Due to the memory limitations of the AWS Free Tier instance, running Magento, MySQL, OpenSearch, Redis, PHP-FPM, NGINX, phpMyAdmin and Varnish simultaneously resulted in resource exhaustion and unstable services.
+
+To ensure a stable Magento deployment, Varnish was omitted. In a production environment (2 GB+ RAM), Varnish would be deployed and configured as the Full Page Cache backend using the Magento-generated VCL.
+
+---
+
+## 2. Redis Logical Databases
+
+The assessment recommends using separate Redis logical databases for cache, full-page cache and sessions.
+
+A single Redis instance was deployed to keep the configuration lightweight within the Free Tier environment.
+
+In production, Redis would be configured with separate logical databases to provide better isolation and management.
+
+---
+
+## 3. phpMyAdmin Hardening
+
+phpMyAdmin was deployed as a dedicated container and exposed on port **8080**.
+
+Access was restricted using AWS Security Group rules that only allowed connections from the developer's public IP.
+
+For a production deployment, additional security measures such as HTTP Basic Authentication, reverse proxy protection and IP allow-listing would be implemented.
+
+---
+
+## 4. Non-root Container Users
+
+The assessment recommends running application services as the **test-ssh** user and **clp** group.
+
+The current implementation uses the default users provided by the official container images for compatibility and simplicity.
+
+A production deployment would use custom images with explicit UID/GID mapping to the host user for improved security and consistent file ownership.
+
+---
+
+## 5. Multi-stage Docker Builds
+
+A custom PHP-FPM Docker image was created for Magento.
+
+To keep the implementation simple and reproducible, a single-stage build was used.
+
+In production, Composer dependency installation would be separated into a dedicated build stage to reduce image size and improve build performance.
+
+---
+
+## 6. Monitoring & CI/CD
+
+The assessment focuses on the deployment of the Magento application stack.
+
+Given additional time, the project would be extended with:
+
+* GitHub Actions CI/CD pipeline
+* Docker image vulnerability scanning
+* Prometheus and Grafana monitoring
+* Centralized log aggregation
+* Automated infrastructure provisioning using Terraform or Ansible
+
+---
+
+## Conclusion
+
+The primary objective of this assessment was to deliver a reproducible, Dockerized Magento 2 deployment on AWS Free Tier while demonstrating sound DevOps practices.
+
+Where resource constraints prevented full implementation of production-grade features, the trade-offs have been documented together with the recommended production approach.
+
