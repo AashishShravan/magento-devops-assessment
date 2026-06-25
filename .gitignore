@@ -1,0 +1,4 @@
+magento/var/
+magento/generated/
+magento/pub/static/
+magento/pub/media/catalog/product/cache/
